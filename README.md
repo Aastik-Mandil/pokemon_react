@@ -1,1 +1,1 @@
-# pokemon_react
+Clone the master branch
